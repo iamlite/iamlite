@@ -1,6 +1,6 @@
-# Hi there, I'm Lite 👋
+# Hi there,  I'm Tariel 👋
 
-I'm a tech enthusiast and developer based in Canada. I love tinkering with technology, 3D printing, and coding. Currently, I'm working on color-core, a powerful color manipulation library for TypeScript and JavaScript applications.
+ I am a passionate learner with a keen interest in modern technology. I enjoy exploring coding projects and picking up new skills. I like to dive into different areas of tech and see where my curiosity takes me
 
 <div align="center">
 
@@ -17,15 +17,20 @@ I'm a tech enthusiast and developer based in Canada. I love tinkering with techn
 ---
 
 <div align="center">
+
+## 📈 Profile Views
+
   <img src="https://profile-counter.glitch.me/iamlite/count.svg?" alt=count />
 </div>
 
 ---
 
-<br clear="both">
-
 <div align="center">
+
+## 🛠️ Technologies & Tools
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
