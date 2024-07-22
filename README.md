@@ -1,11 +1,10 @@
-# Hi there, I'm Tariel 👋
+<div align="center">
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 10px;">
+# Hi there, I'm Tariel 👋
 
 ## 📖 About Me
 
-I am a passionate learner with a keen interest in modern technology. I enjoy exploring coding projects and picking up new skills. I like to dive into different areas of tech and see where my curiosity takes me.
+I am a passionate learner with a keen interest in modern technology and an aspiring law student. I enjoy exploring coding projects and picking up new skills. I like to dive into different areas of tech and see where my curiosity takes me.
 
 ## 🛠️ Technologies & Tools
 
@@ -40,9 +39,6 @@ I am a passionate learner with a keen interest in modern technology. I enjoy exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
 
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-
 ## 📊 GitHub Stats
 
 ![Commits](https://github-readme-stats.vercel.app/api?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
@@ -51,12 +47,7 @@ I am a passionate learner with a keen interest in modern technology. I enjoy exp
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  </div>
-</div>
-
 ---
-
-<div align="center">
   
 ## 📈 Profile Views
 
