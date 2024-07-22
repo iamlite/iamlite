@@ -7,7 +7,9 @@ I'm a tech enthusiast and developer based in Canada. I love tinkering with techn
 ## 📊 GitHub Stats
 
 ![Commits](https://github-readme-stats.vercel.app/api?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamlite&theme=ambient_gradient&hide_border=false)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
