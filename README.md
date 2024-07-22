@@ -1,22 +1,11 @@
 # Hi there, I'm Tariel 👋
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
+
+## 📖 About Me
+
 I am a passionate learner with a keen interest in modern technology. I enjoy exploring coding projects and picking up new skills. I like to dive into different areas of tech and see where my curiosity takes me.
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-
-## 📊 GitHub Stats
-
-![Commits](https://github-readme-stats.vercel.app/api?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamlite&theme=ambient_gradient&hide_border=false)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-      </td>
-      <td>
 
 ## 🛠️ Technologies & Tools
 
@@ -51,9 +40,18 @@ I am a passionate learner with a keen interest in modern technology. I enjoy exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
 
-      </td>
-    </tr>
-  </table>
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+
+## 📊 GitHub Stats
+
+![Commits](https://github-readme-stats.vercel.app/api?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamlite&theme=ambient_gradient&hide_border=false)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  </div>
 </div>
 
 ---
