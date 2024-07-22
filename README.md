@@ -1,8 +1,7 @@
 # Hi there, I'm Tariel 👋
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
 
 ## 📖 About Me
 
@@ -41,8 +40,8 @@ I am a passionate learner with a keen interest in modern technology. I enjoy exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
 
-    </td>
-    <td width="50%" valign="top">
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
 
 ## 📊 GitHub Stats
 
@@ -52,9 +51,8 @@ I am a passionate learner with a keen interest in modern technology. I enjoy exp
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlite&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
 
 ---
 
